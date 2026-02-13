@@ -1,7 +1,7 @@
-🚨 Embedded Security Monitoring System using TivaC & ESP8266
+Embedded Security Monitoring System using TivaC & ESP8266
 This project is a real-time embedded security system built using the TM4C123GH6PM (TivaC) microcontroller. It integrates multiple sensors and communicates with an ESP8266 Wi-Fi module to send alert data to Firebase and a Flutter mobile application. It also captures photos on motion detection using a laptop camera, leveraging BLIP (Bootstrapped Language Image Pretraining) for image captioning.
 
-🛠️ Features
+Features
 Sensor Integration:
 
 Smoke Sensor – triggers a fire alert with buzzer activation.
@@ -38,7 +38,7 @@ Shows image descriptions with date/time and Google Drive links.
 
 Push notifications for critical events.
 
-📦 Technologies Used
+Technologies Used
 Tiva C Series TM4C123GH6PM
 
 ESP8266 NodeMCU
